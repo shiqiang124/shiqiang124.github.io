@@ -4,7 +4,7 @@
   <title><![CDATA[施强的博客]]></title>
   <link href="http://shiqiang124.github.io/atom.xml" rel="self"/>
   <link href="http://shiqiang124.github.io/"/>
-  <updated>2014-01-25T14:17:23+08:00</updated>
+  <updated>2014-01-25T14:44:46+08:00</updated>
   <id>http://shiqiang124.github.io/</id>
   <author>
     <name><![CDATA[shiqiang]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[IOS‘s Popular Logging Frameworks]]></title>
-    <link href="http://shiqiang124.github.io/blog/2014/01/23/ioss-popular-logging-frameworks/"/>
-    <updated>2014-01-23T10:58:09+08:00</updated>
-    <id>http://shiqiang124.github.io/blog/2014/01/23/ioss-popular-logging-frameworks</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
